@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Amber Yang</title>
+    <link>https://amberyangliu.github.io/categories/</link>
+    <description>Recent content in Categories on Amber Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amberyangliu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MBA</title>
+      <link>https://amberyangliu.github.io/categories/mba/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amberyangliu.github.io/categories/mba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
